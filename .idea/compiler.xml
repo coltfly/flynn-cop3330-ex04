@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flynn cop3330-ex04" />
+        <module name="flynn-cop3330-ex04" />
       </profile>
     </annotationProcessing>
   </component>
